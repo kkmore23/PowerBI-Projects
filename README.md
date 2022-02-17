@@ -23,4 +23,7 @@ List of Reports
   WWI buys goods from suppliers including novelty and toy manufacturers, and other novelty wholesalers. They stock the goods in their WWI warehouse and reorder from suppliers as     needed to fulfil customer orders. They also purchase large volumes of packaging materials, and sell these in smaller quantities as a convenience for the customers.
 
   Recently WWI started to sell a variety of edible novelties such as chilli chocolates. The company previously did not have to handle chilled items. Now, to meet food handling       requirements, they must monitor the temperature in their chiller room and any of their trucks that have chiller sections
+  
+    https://app.powerbi.com/groups/1540db18-cd24-4320-aaf8-9d88a2da5c6c/reports/0d214ec0-2b50-40a8-97dd-6394a70edb1e/ReportSection
+  
 
