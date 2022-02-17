@@ -1,5 +1,5 @@
 ## PowerBI-Projects
-This my portfolio of Power BI projects I have worked on and would be be adding more in days to come.
+This my portfolio of Power BI projects I have worked on and would be be adding more in days to come. Please refer to the lonks as well as PDF's above for a quick look into the visuals.
 
 List of Reports
 
