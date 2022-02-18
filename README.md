@@ -5,13 +5,13 @@ List of Reports
 
 1. Crypto 
 
-- https://app.powerbi.com/groups/1540db18-cd24-4320-aaf8-9d88a2da5c6c/reports/2c6aa316-f01b-4a3b-b5d6-103e372debdb/ReportSection
+- https://app.powerbi.com/view?r=eyJrIjoiNTEyNTFjNGItOTIxOC00MTFhLTk5OTUtYWNiOTI2OGFmM2Q2IiwidCI6ImE4ZDNlMTJhLWE0ZjktNDdjMy1iN2JkLTBmMThmNTBjNDcxMyIsImMiOjN9
 
 
 2. HR report
 
 
-- https://app.powerbi.com/groups/1540db18-cd24-4320-aaf8-9d88a2da5c6c/reports/8befb64d-894c-4042-94fd-24069c6dbec9/ReportSection
+- https://app.powerbi.com/view?r=eyJrIjoiNDAxNjllYmUtNDA1Ny00YjllLTljN2UtNmE5OGZhOWJhMzExIiwidCI6ImE4ZDNlMTJhLWE0ZjktNDdjMy1iN2JkLTBmMThmNTBjNDcxMyIsImMiOjN9
 
 
 3. Purchase Order Report
@@ -24,6 +24,6 @@ List of Reports
 
   Recently WWI started to sell a variety of edible novelties such as chilli chocolates. The company previously did not have to handle chilled items. Now, to meet food handling       requirements, they must monitor the temperature in their chiller room and any of their trucks that have chiller sections
   
-- https://app.powerbi.com/groups/1540db18-cd24-4320-aaf8-9d88a2da5c6c/reports/0d214ec0-2b50-40a8-97dd-6394a70edb1e/ReportSection
+- https://app.powerbi.com/view?r=eyJrIjoiOTE2NjkyZmItZjQ4YS00NTgwLTg4MjItNTA0NGU5ODZiNzY1IiwidCI6ImE4ZDNlMTJhLWE0ZjktNDdjMy1iN2JkLTBmMThmNTBjNDcxMyIsImMiOjN9
   
 
