@@ -30,5 +30,10 @@ List of Reports
 4. Adventure Works Product Report
 
 - https://app.powerbi.com/view?r=eyJrIjoiMDliMjY2OGItMzI4YS00YTU4LWIyYTQtN2VhMGMyNTc0ZjAxIiwidCI6ImE4ZDNlMTJhLWE0ZjktNDdjMy1iN2JkLTBmMThmNTBjNDcxMyIsImMiOjN9
+
+
+5. Adventure Works Regional Analysis
+
+- https://app.powerbi.com/view?r=eyJrIjoiM2M3NjAwZTEtODMwMi00ZDY2LWEyYjMtZGQyZjRhMjBmOGRiIiwidCI6ImE4ZDNlMTJhLWE0ZjktNDdjMy1iN2JkLTBmMThmNTBjNDcxMyIsImMiOjN9
   
 
