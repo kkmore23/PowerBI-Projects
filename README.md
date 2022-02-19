@@ -25,5 +25,10 @@ List of Reports
   Recently WWI started to sell a variety of edible novelties such as chilli chocolates. The company previously did not have to handle chilled items. Now, to meet food handling       requirements, they must monitor the temperature in their chiller room and any of their trucks that have chiller sections
   
 - https://app.powerbi.com/view?r=eyJrIjoiOTE2NjkyZmItZjQ4YS00NTgwLTg4MjItNTA0NGU5ODZiNzY1IiwidCI6ImE4ZDNlMTJhLWE0ZjktNDdjMy1iN2JkLTBmMThmNTBjNDcxMyIsImMiOjN9
+
+
+4. Adventure Works Product Report
+
+- https://app.powerbi.com/view?r=eyJrIjoiMDliMjY2OGItMzI4YS00YTU4LWIyYTQtN2VhMGMyNTc0ZjAxIiwidCI6ImE4ZDNlMTJhLWE0ZjktNDdjMy1iN2JkLTBmMThmNTBjNDcxMyIsImMiOjN9
   
 
